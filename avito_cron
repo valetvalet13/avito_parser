@@ -1,0 +1,1 @@
+30 23 * * * root cd /opt ; /usr/bin/perl init.pl >> /var/log/avito.log 2>&1
