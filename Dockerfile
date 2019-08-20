@@ -1,3 +1,4 @@
+Зайди как прочитаешь в телеграмм. Не могу с тобой связаться
 FROM ubuntu:16.04
 RUN apt update && apt upgrade -y && \
     apt install cpanminus make gcc libnet-ssleay-perl libcrypt-ssleay-perl cron tzdata -y && \
